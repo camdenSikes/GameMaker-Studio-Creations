@@ -1,0 +1,5 @@
+Make checkpoints, saved when he passes them
+	When dies, go back to most recent checkpoint
+add coins
+Add finish line
+Add more information on game over
